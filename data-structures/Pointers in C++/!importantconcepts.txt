@@ -1,0 +1,6 @@
+Review lesson 10 with arrays, and probably 11 too
+There are so many different combinations, and it is good to understand them all,
+instead of memorizing.
+
+Rewatch 9, 10. Before that also go over the video of arrays and pointers
+There are some basic concepts there just to simply cover again.
